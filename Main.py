@@ -21,7 +21,7 @@ class Evaluate:
   def isEmpty(self):
     """
     Check whether the stack is empty.
-    Returns:
+    Returns
       True if it is empty, else returns False.
     """
       # Write your code here
